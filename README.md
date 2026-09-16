@@ -9,13 +9,13 @@ This script is intended to be executed through a Roblox exploit/executor. Using 
 
 Only use executors and scripts you trust, and never provide your Roblox password, cookies, authentication tokens, or other sensitive information to third-party tools.»
 
-Loadstring
+# Loadstring
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/samucarapo/Build-a-boat-For-Treasure-Script/main/Main.lua", true))()
 ```
 
-Features
+# Features
 
 Automation
 
@@ -71,7 +71,7 @@ Custom JumpPower
 - Change JumpPower from "0" to "500".
 - The selected value is continuously maintained.
 
-UI
+# UI
 
 The script includes:
 
@@ -84,7 +84,7 @@ The script includes:
 - Movement input fields
 - Automatic removal of an existing instance when executed again
 
-Requirements
+# Requirements
 
 - Roblox
 - Build a Boat for Treasure
@@ -92,17 +92,17 @@ Requirements
 
 The script automatically stops if executed in another game.
 
-Installation
+# Installation
 
 1. Join Build a Boat for Treasure.
 2. Execute the loadstring above.
 3. Click the "SHADOW" button to open the interface.
 4. Enable the features you want to use.
 
-Notes
+# Notes
 
 Some features depend on the current structure and behavior of the game. Game updates may cause individual features, coordinates, or automation routes to stop working.
 
-Credits
+# Credits
 
 Script by samucarapo
